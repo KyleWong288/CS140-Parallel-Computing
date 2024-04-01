@@ -1,0 +1,20 @@
+Test 1: Wall clock time = 0.000135 with 1 threads
+Test 2: Wall clock time = 0.000076 with 1 threads
+Test 3: Wall clock time = 0.000054 with 1 threads
+Test 4: Wall clock time = 0.000069 with 1 threads
+Test 4b: Wall clock time = 0.000055 with 1 threads
+Test 4c: Wall clock time = 0.000056 with 1 threads
+Test 5: Wall clock time = 0.000054 with 1 threads
+Test 6: Wall clock time = 0.000062 with 1 threads
+Test 7: Wall clock time = 0.000054 with 1 threads
+Test 7c: Wall clock time = 0.000071 with 1 threads
+Test 8: Wall clock time = 0.000056 with 1 threads
+Test 8a: n=0.5K t=8K blockmapping: Wall clock time = 0.923895 with 1 threads
+Test 8b: n=0.5K t=8K blockmapping: Wall clock time = 0.003083 with 1 threads
+Test 9: n=4K t=1K blockmapping: Wall clock time = 18.223996 with 1 threads
+Test 10: n=4K t=1K block cylic (r=1): Wall clock time = 18.443379 with 1 threads
+Test 11: n=4K t=1K block cyclic (r=16): Wall clock time = 18.307742 with 1 threads
+Test 12: n=4K t=1K upper block mapping: Wall clock time = 0.084210 with 1 threads
+Test 13: n=4K t=1K upper block cylic (r=1): Wall clock time = 0.085405 with 1 threads
+Test 14: n=4K t=1K upper block cyclic(r=16): Wall clock time = 0.083866 with 1 threads
+Summary: Failed 0 out of 19 tests
